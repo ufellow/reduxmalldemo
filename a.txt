@@ -1,5 +1,2 @@
-<<<<<<< HEAD
-aaa branch £¡
-=======
-sdfdsf bbranch
->>>>>>> dev
+sdfdsf branch
+
