@@ -1,0 +1,1 @@
+export const getAllProductsApi = 'http://result.eolinker.com/1g28CPV45638119971c6917f4e01869ddd10a41fb63ba20?uri=/product'
